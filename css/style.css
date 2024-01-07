@@ -398,5 +398,16 @@ section>.contact {
   .contact p {
     font-size: 2rem;
   }
-
+.home{
+    width: fit-content;
+}
+.education h1{
+    padding-left: 11%;
+}
+.education-entry img {
+    width: 120px;
+    margin-right: 32px;
+    margin-left: 10px;
+    margin-block: 5px;
+  }
 }
