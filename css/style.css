@@ -410,4 +410,14 @@ section>.contact {
     margin-left: 10px;
     margin-block: 5px;
   }
+  .home-img img{
+    width: 25vw;
+  }
+  .skills h1{
+    padding-left: 26%;
+  }
+
+  .contact {
+    display: contents;
+  }
 }
