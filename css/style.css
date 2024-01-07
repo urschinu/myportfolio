@@ -391,3 +391,12 @@ section>.contact {
         margin: 3rem 0;
     }
 }
+
+
+@media (max-width: 550px) {
+    
+  .contact p {
+    font-size: 2rem;
+  }
+
+}
