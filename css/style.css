@@ -416,8 +416,8 @@ section>.contact {
   .skills h1{
     padding-left: 26%;
   }
-
-  .contact {
-    display: contents;
-  }
+  .project-content img {
+    width: 58vw;
+    height: 30vw;
+}
 }
