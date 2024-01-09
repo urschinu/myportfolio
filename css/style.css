@@ -285,6 +285,7 @@ span {
     padding: 3rem 2rem 4rem;
     border-radius: 2rem;
     text-align: center;
+    height: 44rem;
 }
 
 .project-content img {
@@ -398,9 +399,6 @@ section>.contact {
   .contact p {
     font-size: 2rem;
   }
-.home{
-    width: fit-content;
-}
 .education h1{
     padding-left: 11%;
 }
